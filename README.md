@@ -1,7 +1,7 @@
 # MTRPZ Lab 1
 # Markdown to HTML Converter
 
-This application converts a subset of Markdown syntax to HTML. It validates the Markdown syntax and either outputs the converted HTML to the console or to a specified output file.
+This application converts a subset of Markdown syntax to HTML.The tool validates Markdown syntax and can output the converted HTML either to the console or to a designated output file.
 
 ## How to Build and Run
 
